@@ -67,7 +67,7 @@ Permite criar, listar e consultar clientes, retornando dados em formato JSON.
 
 ## 📬 Testes com Postman
 
-* Uma coleção do **Postman** está disponível em [`docs/CadastroClientes.postman_collection.json`](docs/CadastroClientes.postman_collection.json).
+* Uma coleção do **Postman** está disponível em [`docs/CadastroClientes.postman_collection.json`](docs/Cadastro-Cliente.postman_collection.json).
 
 Basta importar no Postman e executar os testes.
 
